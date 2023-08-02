@@ -6,9 +6,15 @@
  <li> <h3> 👨‍💻 Engenheiro de Software em formação</h3> </li>
  <li> 📚 Aprendendo Python o framework Django no momento </li>
  <li> 🗃 Estudarei também React js e Typescript</li>
- 
 </ul>
 
+####  No momento: 
+
+Atualmente trabalhando em um projeto de agenda em **Django** e outro de algoritmo de árvore binária em **Python**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luketuner123&repo=ProjetoAgenda)](https://github.com/Luketuner123/ProjetoAgenda.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luketuner123&repo=arvorebinaria)](https://github.com/Luketuner123/arvorebinaria.git)
 
 
 <h2 align="center">Conhecimentos </h2>
