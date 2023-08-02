@@ -1,7 +1,13 @@
  
 <h1 align="center"> Bem-vindo(a) ao meu perfil</h1>
 <br>
-<h3> 👨‍💻 Engenheiro de Software em formação</h3>
+
+<ul>
+ <li> <h3> 👨‍💻 Engenheiro de Software em formação</h3> </li>
+ <li> 📚 Aprendendo Python o framework Django no momento </li>
+ <li> 🗃 Estudarei também React js e Typescript</li>
+ 
+</ul>
 
 
 
