@@ -12,9 +12,9 @@
 
 Atualmente trabalhando em um projeto de agenda em **Django** e outro de algoritmo de árvore binária em **Python**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luketuner123&repo=ProjetoAgenda)](https://github.com/Luketuner123/ProjetoAgenda.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucastatsumi&repo=ProjetoAgenda)](https://github.com/lucastatsumi/ProjetoAgenda.git)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luketuner123&repo=arvorebinaria)](https://github.com/Luketuner123/arvorebinaria.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucastatsumi&repo=arvorebinaria)](https://github.com/lucastatsumi/arvorebinaria.git)
 
 
 <h2 align="center">Conhecimentos </h2>
@@ -23,8 +23,8 @@ Atualmente trabalhando em um projeto de agenda em **Django** e outro de algoritm
 
 <h2 align="center">Sobre </h2>
 
-![Luketuner123 Status](https://github-readme-stats.vercel.app/api?username=Luketuner123&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Luketuner123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![lucastatsumi Status](https://github-readme-stats.vercel.app/api?username=lucastatsumi&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastatsumi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Luketuner123/Luketuner123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
