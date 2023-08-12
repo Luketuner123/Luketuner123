@@ -4,7 +4,8 @@
 
 <ul>
  <li> <h3> 👨‍💻 Engenheiro de Software em formação</h3> </li>
- <li> 📚 Aprendendo Python o framework Django no momento </li>
+ <li> 📚 Aprendendo Python o framework Django no momento em curso na Udemy</li>
+ <li> 📚 Reaprendendo programação com o curso CS50 grátis, irei trazer meus projetos aqui</li>
  <li> 🗃 Estudarei também React js e Typescript</li>
 </ul>
 
