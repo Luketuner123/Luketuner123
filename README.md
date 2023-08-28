@@ -21,6 +21,7 @@ Atualmente trabalhando em um projeto de agenda em **Django** e outro de algoritm
 <h2 align="center">Conhecimentos </h2>
 
 <img src="https://camo.githubusercontent.com/0fd2667849df9f18b863a2fc9fdf275d28c0e69bae657009213dbbba08295d02/68747470733a2f2f7261772e6769746875622e636f6d2f436972636c6543492d5075626c69632f63696d672d707974686f6e2f6d61737465722f696d672f636972636c652d707974686f6e2e7376673f73616e6974697a653d74727565" width=50/> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width=50/> <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width=50/> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width=50/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width=50> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png?f=webp" width=50>
 
 <h2 align="center">Sobre </h2>
 
